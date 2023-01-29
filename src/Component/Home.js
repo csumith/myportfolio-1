@@ -24,7 +24,7 @@ const Home = () => {
                 <div className="circle Third"></div>
                 <div className="circle Fourth"></div>
               </div>
-              <p className="display-3  text-light">OMKAR MANE</p>
+              <p className="display-3  text-light">Sumit Chouhan</p>
               <h5 className="text-light">Front End Developer, MERN Stack</h5>
               <p className="text-light lead">
               An excellent academic record, ability to understand and develop , knowledge frontend, and a strong understanding of technologies. I seek to work as a frontend Engineer to further my knowledge in the IT domain and utilize my skills
