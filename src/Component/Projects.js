@@ -10,14 +10,14 @@ const ProjectInfo = [
   {
     projectName: "Curd_Operation",
     projectDescription:
-      "Pet Website - Convert from PSD to WEB by using HTML5,css3,Bootstrap",
+      "Curd Operation using HTML5,css3,Bootstrap",
     linkVisit: "https://github.com/csumith/taskz",
     image: "",
   },
   {
     projectName: "FullStack Application",
     projectDescription:
-      "Task Manager  - using HTML5,css3,Bootstrap , expressJs ,mongodb ",
+      "FullSatck Application  - using HTML5,css3,Bootstrap , expressJs ,mongodb ",
     linkVisit: "https://github.com/csumith/MERN---FullStack",
     image: "",
   },
