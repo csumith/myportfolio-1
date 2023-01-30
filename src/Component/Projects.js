@@ -10,7 +10,7 @@ const ProjectInfo = [
   {
     projectName: "Curd_Operation",
     projectDescription:
-      "Curd Operation using HTML5,css3,Bootstrap",
+      "Curd Operation using HTML5,css3,Bootstrap , React-js, Node-js",
     linkVisit: "https://github.com/csumith/taskz",
     image: "",
   },
