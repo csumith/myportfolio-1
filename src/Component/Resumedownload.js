@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import resumeFile from "../images/pdf/SumitChouhan1.pdf";
+import resumeFile from "../images/pdf/sumitChouhan2.pdf";
 
 const Resumedownload = () => {
   const [download, setDownload] = useState(false);
